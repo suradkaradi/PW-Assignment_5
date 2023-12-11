@@ -1,0 +1,4 @@
+Q1.
+	Search engine optimization (SEO) is the practice of optimizing a website's content, structure, and overall online presence to improve its visibility and ranking in search engine results pages
+It involves techniques like keyword research, on-page optimization, link building, and technical SEO (more on those later) to make the website appealing to both search engines and users. 
+SEO is important for businesses because it helps you attain visibility for search queries organically. This helps you earn rankings rather than having to pay for them with pay-per-click (PPC) ads. Ranking well in search results for queries related to your content, products, or services can increase your website traffic. This can translate into revenue if you convert prospects into customers. And often at a lower cost than if you were using paid Google search ads.
